@@ -121,3 +121,6 @@ export default function Album() {
     </ThemeProvider>
   );
 }
+
+// 7390 Dell
+// 7838094178 
